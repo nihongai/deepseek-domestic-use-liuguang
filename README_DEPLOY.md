@@ -14,4 +14,4 @@ DeepSeek 国内使用 / 不翻墙 DeepSeek / 流光AI 国内用户 / DeepSeek �
 
 模板：`site_v3.html.j2`
 CTA：`https://liuguang.ai?utm_source=satellite-deepseek-domestic-use&utm_medium=referral&utm_campaign=deepseek-domestic-use`
-最后更新：2026年07月29日
+最后更新：2026年08月01日
